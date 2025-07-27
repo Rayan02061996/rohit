@@ -1,4 +1,4 @@
 # rohit
 this is my first git repositry
 <br>
-rohit kumar
+rohit kumar(apna collage)
